@@ -1,0 +1,1 @@
+<a class="link" href="pokemon.html#${pokemon.number}"></a>
